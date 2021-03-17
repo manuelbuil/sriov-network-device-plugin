@@ -563,4 +563,4 @@ $ DOCKERFILE=images/Dockerfile.ppc64le TAG=nfvpe/sriov-device-plugin:ppc64le mak
 
 We welcome your feedback and contributions to this project. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
-Copyright 2018 © Intel Corporation.
+Copyright 2018 © Intel Corporation
